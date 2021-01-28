@@ -27,6 +27,7 @@ The following were the steps we performed for understanding the data better
 We implemented many interesting things like scatter text, the BERT model. We tried different libraries and explored many new topics in NLP despite us being new to NLP.
 We had fun!
 
-
+## Note
+To acsses or view HTML files please refer to https://htmlpreview.github.io/
 
  
